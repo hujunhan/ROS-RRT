@@ -25,4 +25,5 @@ Thanks to YinHuan@ZJU and his [repo](https://github.com/ZJUYH/nav_sim)
 
 3. If errors come out while *catkin_make*, you’d better read my code and modify it yourself, I mainly add *rrt* and modified *traceback* & *planner_core*
 
- 
+ Detailed experiments and documentary can be viewed in *doc/detailed-doc.md*
+
