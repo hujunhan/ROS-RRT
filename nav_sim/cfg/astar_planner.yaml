@@ -1,0 +1,6 @@
+GlobalPlanner:
+  use_dijkstra: False
+  step: 3.0
+  use_potential: False
+  smooth: True
+  k: 0.8
